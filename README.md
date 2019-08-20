@@ -1,1 +1,2 @@
-# bobs-sql-burger
+# Bobs-Burgers
+sequalize
